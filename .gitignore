@@ -1,0 +1,13 @@
+build*/
+lib/
+bin/
+.vscode/
+*~
+__pycache__/
+*.swp
+*.DS_Store
+*tags
+scripts/
+traj.txt
+1.txt
+*.cmake/
